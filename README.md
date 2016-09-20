@@ -4,7 +4,7 @@ LeetCode
 ##LeetCode solutions written in swift 3 with detailed comments.
 
 ###For detailed explanation and analysis, please visit my blog:
-###http://www.yangyanzhan.com/category/leetcode/
+###<a href="http://www.yangyanzhan.com/category/leetcode/" target="_blank">http://www.yangyanzhan.com/category/leetcode/</a>
 
 | # | Title | Analysis | Difficulty |
 |---| ----- | -------- | ---------- |
