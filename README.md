@@ -3,7 +3,8 @@ LeetCode
 
 ##LeetCode solutions written in swift 3 with detailed comments.
 
-##For detailed explanation and analysis, please visit my blog: http://www.yangyanzhan.com/category/leetcode/
+###For detailed explanation and analysis, please visit my blog:
+###http://www.yangyanzhan.com/category/leetcode/
 
 | # | Title | Analysis | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -50,19 +51,19 @@ LeetCode
 |307|<a href="https://leetcode.com/problems/range-sum-query-mutable/" target="_blank">Range Sum Query - Mutable</a>| |Medium|
 |306|<a href="https://leetcode.com/problems/additive-number/" target="_blank">Additive Number</a>| |Medium|
 |304|<a href="https://leetcode.com/problems/range-sum-query-2d-immutable/" target="_blank">Range Sum Query 2D - Immutable</a>| |Medium|
-|303|<a href="https://leetcode.com/problems/range-sum-query-immutable/" target="_blank">Range Sum Query - Immutable</a> | |Easy|
+|303|<a href="https://leetcode.com/problems/range-sum-query-immutable/" target="_blank">Range Sum Query - Immutable</a>| |Easy|
 |301|<a href="https://leetcode.com/problems/remove-invalid-parentheses/" target="_blank">Remove Invalid Parentheses</a>|  |Hard|
-|300|<a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank">Longest Increasing Subsequence</a> | |Medium|
-|299|<a href="https://leetcode.com/problems/bulls-and-cows/" target="_blank">Bulls and Cows</a> | |Easy|
-|297|<a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/" target="_blank">Serialize and Deserialize Binary Tree</a> | |Medium|
+|300|<a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank">Longest Increasing Subsequence</a>| |Medium|
+|299|<a href="https://leetcode.com/problems/bulls-and-cows/" target="_blank">Bulls and Cows</a>| |Easy|
+|297|<a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/" target="_blank">Serialize and Deserialize Binary Tree</a>| |Medium|
 |295|<a href="https://leetcode.com/problems/find-median-from-data-stream/" target="_blank">Find Median from Data Stream</a>| |Hard|
-|292|<a href="https://leetcode.com/problems/nim-game/" target="_blank">Nim Game</a> | |Easy|
+|292|<a href="https://leetcode.com/problems/nim-game/" target="_blank">Nim Game</a>| |Easy|
 |290|<a href="https://leetcode.com/problems/word-pattern/" target="_blank">Word Pattern</a>| |Easy|
-|287|<a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Find the Duplicate Number</a> | |Hard|
-|285|<a href="https://leetcode.com/problems/inorder-successor-in-bst/" target="_blank">Inorder Successor in BST</a>&hearts; | |Medium|
-|284|<a href="https://leetcode.com/problems/peeking-iterator/" target="_blank">Peeking Iterator</a> | |Medium|
-|283|<a href="https://leetcode.com/problems/move-zeroes/" target="_blank">Move Zeroes</a> | |Easy|
-|282|<a href="https://leetcode.com/problems/expression-add-operators/" target="_blank">Expression Add Operators</a> | |Hard|
+|287|<a href="https://leetcode.com/problems/find-the-duplicate-number/" target="_blank">Find the Duplicate Number</a>| |Hard|
+|285|<a href="https://leetcode.com/problems/inorder-successor-in-bst/" target="_blank">Inorder Successor in BST</a>| |Medium|
+|284|<a href="https://leetcode.com/problems/peeking-iterator/" target="_blank">Peeking Iterator</a>| |Medium|
+|283|<a href="https://leetcode.com/problems/move-zeroes/" target="_blank">Move Zeroes</a>| |Easy|
+|282|<a href="https://leetcode.com/problems/expression-add-operators/" target="_blank">Expression Add Operators</a>| |Hard|
 |279|<a href="https://leetcode.com/problems/perfect-squares/" target="_blank">Perfect Squares</a>| |Medium|
 |278|<a href="https://leetcode.com/problems/first-bad-version/" target="_blank">First Bad Version</a>| |Easy|
 |275|<a href="https://leetcode.com/problems/h-index-ii/" target="_blank">H-Index II</a>| |Medium|
@@ -124,27 +125,27 @@ LeetCode
 |189|<a href="https://oj.leetcode.com/problems/rotate-array/" target="_blank">Rotate Array</a>| |Easy|
 |188|<a href="https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/" target="_blank">Best Time to Buy and Sell Stock IV</a>| |Hard|
 |187|<a href="https://oj.leetcode.com/problems/repeated-dna-sequences/" target="_blank">Repeated DNA Sequences</a>| |Medium|
-|186|<a href="https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/" target="_blank">Reverse Words in a String II</a>&hearts; | |Medium|
+|186|<a href="https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/" target="_blank">Reverse Words in a String II</a>| |Medium|
 |179|<a href="https://oj.leetcode.com/problems/largest-number/" target="_blank">Largest Number</a>| |Medium|
 |174|<a href="https://oj.leetcode.com/problems/dungeon-game/" target="_blank">Dungeon Game</a>| |Hard|
 |173|<a href="https://oj.leetcode.com/problems/binary-search-tree-iterator/" target="_blank">Binary Search Tree Iterator</a>| |Medium|
 |172|<a href="https://oj.leetcode.com/problems/factorial-trailing-zeroes/" target="_blank">Factorial Trailing Zeroes</a>| |Easy|
 |171|<a href="https://oj.leetcode.com/problems/excel-sheet-column-number/" target="_blank">Excel Sheet Column Number</a>| |Easy|
-|170|<a href="https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/" target="_blank">Two Sum III - Data structure design</a>&hearts; | |Easy|
+|170|<a href="https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/" target="_blank">Two Sum III - Data structure design</a>| |Easy|
 |169|<a href="https://oj.leetcode.com/problems/majority-element/" target="_blank">Majority Element</a>| |Easy|
 |168|<a href="https://oj.leetcode.com/problems/excel-sheet-column-title/" target="_blank">Excel Sheet Column Title</a>| |Easy|
-|167|<a href="https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/" target="_blank">Two Sum II - Input array is sorted</a>&hearts; | |Medium|
+|167|<a href="https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/" target="_blank">Two Sum II - Input array is sorted</a>| |Medium|
 |166|<a href="https://oj.leetcode.com/problems/fraction-to-recurring-decimal/" target="_blank">Fraction to Recurring Decimal</a>| |Medium|
 |165|<a href="https://oj.leetcode.com/problems/compare-version-numbers/" target="_blank">Compare Version Numbers</a>| |Easy|
 |164|<a href="https://oj.leetcode.com/problems/maximum-gap/" target="_blank">Maximum Gap</a>| |Hard|
-|163|<a href="https://oj.leetcode.com/problems/missing-ranges/" target="_blank">Missing Ranges</a>&hearts; | |Medium|
+|163|<a href="https://oj.leetcode.com/problems/missing-ranges/" target="_blank">Missing Ranges</a>| |Medium|
 |162|<a href="https://oj.leetcode.com/problems/find-peak-element/" target="_blank">Find Peak Element</a>| |Medium|
-|161|<a href="https://oj.leetcode.com/problems/one-edit-distance/" target="_blank">One Edit Distance</a>&hearts; | |Medium|
+|161|<a href="https://oj.leetcode.com/problems/one-edit-distance/" target="_blank">One Edit Distance</a>| |Medium|
 |160|<a href="https://oj.leetcode.com/problems/intersection-of-two-linked-lists/" target="_blank">Intersection of Two Linked Lists</a>| |Easy|
-|159|<a href="https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/" target="_blank">Longest Substring with At Most Two Distinct Characters</a>&hearts; | |Hard|
-|158|<a href="https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/" target="_blank">Read N Characters Given Read4 II - Call multiple times</a>&hearts; | |Hard|
-|157|<a href="https://oj.leetcode.com/problems/read-n-characters-given-read4/" target="_blank">Read N Characters Given Read4</a>&hearts; | |Easy|
-|156|<a href="https://oj.leetcode.com/problems/binary-tree-upside-down/" target="_blank">Binary Tree Upside Down</a>&hearts; | |Medium|
+|159|<a href="https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/" target="_blank">Longest Substring with At Most Two Distinct Characters</a>| |Hard|
+|158|<a href="https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/" target="_blank">Read N Characters Given Read4 II - Call multiple times</a>| |Hard|
+|157|<a href="https://oj.leetcode.com/problems/read-n-characters-given-read4/" target="_blank">Read N Characters Given Read4</a>| |Easy|
+|156|<a href="https://oj.leetcode.com/problems/binary-tree-upside-down/" target="_blank">Binary Tree Upside Down</a>| |Medium|
 |155|<a href="https://oj.leetcode.com/problems/min-stack/" target="_blank">Min Stack</a>| |Easy|
 |154|<a href="https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/" target="_blank">Find Minimum in Rotated Sorted Array II</a>| |Hard|
 |153|<a href="https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/" target="_blank">Find Minimum in Rotated Sorted Array</a>| |Medium|
