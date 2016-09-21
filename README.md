@@ -297,7 +297,7 @@ LeetCode
 |10|<a href="https://oj.leetcode.com/problems/regular-expression-matching/" target="_blank">Regular Expression Matching</a>| |Hard|
 |9|<a href="https://oj.leetcode.com/problems/palindrome-number/" target="_blank">Palindrome Number</a>| |Easy|
 |8|<a href="https://oj.leetcode.com/problems/string-to-integer-atoi/" target="_blank">String to Integer (atoi)</a>| |Easy|
-|7|<a href="https://oj.leetcode.com/problems/reverse-integer/" target="_blank">Reverse Integer</a>| |Easy|
+|7|<a href="https://oj.leetcode.com/problems/reverse-integer/" target="_blank">Reverse Integer</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-7%E3%80%90reverse-integer%E3%80%91/">Swift</a>|Easy|
 |6|<a href="https://oj.leetcode.com/problems/zigzag-conversion/" target="_blank">ZigZag Conversion</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-6%E3%80%90zigzag-conversion%E3%80%91/">Swift</a>|Easy|
 |5|<a href="https://oj.leetcode.com/problems/longest-palindromic-substring/" target="_blank">Longest Palindromic Substring</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-5-【longest-palindromic-substring】/">Swift</a>|Medium|
 |4|<a href="https://oj.leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">Median of Two Sorted Arrays</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-4【median-of-two-sorted-arrays】/">Swift</a>|Hard|
