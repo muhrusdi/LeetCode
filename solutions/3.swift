@@ -1,6 +1,6 @@
 import Foundation
 
-func solutionLT3() {
+func solutionLC3() {
     
     class Solution {
         func lengthOfLongestSubstring(_ s: String) -> Int {

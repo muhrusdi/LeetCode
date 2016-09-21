@@ -1,6 +1,6 @@
 import Foundation
 
-func solutionLT2() {
+func solutionLC2() {
     
     class ListNode {
         public var val: Int

@@ -1,6 +1,6 @@
 import Foundation
 
-func solutionLT1() {
+func solutionLC1() {
     
     class Solution {
         func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
