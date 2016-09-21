@@ -5,6 +5,9 @@ LeetCode
 
 ###For detailed explanation and analysis, please visit my blog:
 ###<a href="http://www.yangyanzhan.com/category/leetcode/" target="_blank">http://www.yangyanzhan.com/category/leetcode/</a>
+###If you like my project and blog, don't forget to star this project.:smile:
+
+========
 
 | # | Title | Analysis | Difficulty |
 |---| ----- | -------- | ---------- |
