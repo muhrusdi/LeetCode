@@ -293,7 +293,7 @@ LeetCode
 |17|<a href="https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/" target="_blank">Letter Combinations of a Phone Number</a>| |Medium|
 |16|<a href="https://oj.leetcode.com/problems/3sum-closest/" target="_blank">3Sum Closest</a>| |Medium|
 |15|<a href="https://oj.leetcode.com/problems/3sum/" target="_blank">3Sum</a>| |Medium|
-|14|<a href="https://oj.leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common Prefix</a>| |Easy|
+|14|<a href="https://oj.leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common Prefix</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-14%E3%80%90longest-common-prefix%E3%80%91/">Swift</a>|Easy|
 |13|<a href="https://oj.leetcode.com/problems/roman-to-integer/" target="_blank">Roman to Integer</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-13%E3%80%90roman-to-integer%E3%80%91/">Swift</a>|Easy|
 |12|<a href="https://oj.leetcode.com/problems/integer-to-roman/" target="_blank">Integer to Roman</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-12%E3%80%90integer-to-roman%E3%80%91/">Swift</a>|Medium|
 |11|<a href="https://oj.leetcode.com/problems/container-with-most-water/" target="_blank">Container With Most Water</a>|<a href="http://www.yangyanzhan.com/leetcode/analysis-for-leetcode-no-11%E3%80%90container-with-most-water%E3%80%91/">Swift</a>|Medium|
