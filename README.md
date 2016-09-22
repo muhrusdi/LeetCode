@@ -9,7 +9,12 @@ LeetCode
 
 ========
 ###Usage:
-###Every solution is a member function of the class 【Solution】and the definition of this member function is enclosed in another function (to mimic a namespace, these enclosing functions are named like 【solutionLCn】). All you have to do is to copy the class (and only the class) in enclosing function solutionLCn and paste it into LeetCode submission form to give it a try. And don't forget to copy the import clauses in the beginning of every file into LeetCode.
+###The solutions for every LeetCode problem can be found in the 【solutions】folder in this repository.
+###The analysis for every LeetCode problem can be found on my blog. Every analysis for each problem can be found in the table below.
+========
+========
+###Note:
+###Every solution is a member function of the class 【Solution】and the definition of this member function is enclosed in another function (to mimic a namespace, these enclosing functions are named like 【solutionLCn】). All you have to do is to copy the class (and only the class) in enclosing function【solutionLCn】and paste it into LeetCode submission form to give it a try. And don't forget to copy the import clauses in the beginning of every file into LeetCode.
 ========
 ![alt tag](https://github.com/yangyanzhan/leetcode/blob/master/resource/guide.png)
 ========
