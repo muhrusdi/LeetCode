@@ -4,7 +4,7 @@ LeetCode
 ##LeetCode solutions written in swift 3 with detailed comments.
 
 ###For detailed explanation and analysis, please visit my blog:
-###<a href="http://www.yangyanzhan.com/category/online-judge/leetcode/" target="_blank">http://www.yangyanzhan.com/category/online-judge/leetcode/</a>
+###<a href="http://www.yangyanzhan.com/category/swift-solutions/leetcode/" target="_blank">http://www.yangyanzhan.com/category/swift-solutions/leetcode/</a>
 ###If you like my project and blog, don't forget to star this project.:smile:
 
 ========
@@ -15,6 +15,8 @@ LeetCode
 ###Bonus:
 ###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/Exercism">Exercism Solutions in Swift</a>
 ###If you want to see solutions for <a href="https://codefights.com/">CodeFights</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/CodeFights">CodeFights Solutions in Swift</a>
+###If you want to see solutions for <a href="https://www.hackerearth.com/challenges/">HackerEarth</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/HackerEarth">HackerEarth Solutions in Swift</a>
+###If you want to see solutions for <a href="https://www.hackerrank.com/domains">HackerRank</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/HackerRank">HackerRank Solutions in Swift</a>
 ========
 
 | # | Title | Analysis | Difficulty |
@@ -298,17 +300,17 @@ LeetCode
 |17|<a href="https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/" target="_blank">Letter Combinations of a Phone Number</a>| |Medium|
 |16|<a href="https://oj.leetcode.com/problems/3sum-closest/" target="_blank">3Sum Closest</a>| |Medium|
 |15|<a href="https://oj.leetcode.com/problems/3sum/" target="_blank">3Sum</a>| |Medium|
-|14|<a href="https://oj.leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common Prefix</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-14%E3%80%90longest-common-prefix%E3%80%91/">Swift</a>|Easy|
-|13|<a href="https://oj.leetcode.com/problems/roman-to-integer/" target="_blank">Roman to Integer</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-13%E3%80%90roman-to-integer%E3%80%91/">Swift</a>|Easy|
-|12|<a href="https://oj.leetcode.com/problems/integer-to-roman/" target="_blank">Integer to Roman</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-12%E3%80%90integer-to-roman%E3%80%91/">Swift</a>|Medium|
-|11|<a href="https://oj.leetcode.com/problems/container-with-most-water/" target="_blank">Container With Most Water</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-11%E3%80%90container-with-most-water%E3%80%91/">Swift</a>|Medium|
-|10|<a href="https://oj.leetcode.com/problems/regular-expression-matching/" target="_blank">Regular Expression Matching</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-10%E3%80%90regular-expression-matching%E3%80%91/">Swift</a>|Hard|
-|9|<a href="https://oj.leetcode.com/problems/palindrome-number/" target="_blank">Palindrome Number</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-9%E3%80%90palindrome-number%E3%80%91/">Swift</a>|Easy|
-|8|<a href="https://oj.leetcode.com/problems/string-to-integer-atoi/" target="_blank">String to Integer (atoi)</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-8%E3%80%90string-to-integer-atoi%E3%80%91/">Swift</a>|Easy|
-|7|<a href="https://oj.leetcode.com/problems/reverse-integer/" target="_blank">Reverse Integer</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-7%E3%80%90reverse-integer%E3%80%91/">Swift</a>|Easy|
-|6|<a href="https://oj.leetcode.com/problems/zigzag-conversion/" target="_blank">ZigZag Conversion</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-6%E3%80%90zigzag-conversion%E3%80%91/">Swift</a>|Easy|
-|5|<a href="https://oj.leetcode.com/problems/longest-palindromic-substring/" target="_blank">Longest Palindromic Substring</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-5-【longest-palindromic-substring】/">Swift</a>|Medium|
-|4|<a href="https://oj.leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">Median of Two Sorted Arrays</a>|<a href="http://www.yangyanzhan.com/online-judge/leetcode/analysis-for-leetcode-no-4【median-of-two-sorted-arrays】/">Swift</a>|Hard|
+|14|<a href="https://oj.leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common Prefix</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-14%E3%80%90longest-common-prefix%E3%80%91/">Swift</a>|Easy|
+|13|<a href="https://oj.leetcode.com/problems/roman-to-integer/" target="_blank">Roman to Integer</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-13%E3%80%90roman-to-integer%E3%80%91/">Swift</a>|Easy|
+|12|<a href="https://oj.leetcode.com/problems/integer-to-roman/" target="_blank">Integer to Roman</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-12%E3%80%90integer-to-roman%E3%80%91/">Swift</a>|Medium|
+|11|<a href="https://oj.leetcode.com/problems/container-with-most-water/" target="_blank">Container With Most Water</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-11%E3%80%90container-with-most-water%E3%80%91/">Swift</a>|Medium|
+|10|<a href="https://oj.leetcode.com/problems/regular-expression-matching/" target="_blank">Regular Expression Matching</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-10%E3%80%90regular-expression-matching%E3%80%91/">Swift</a>|Hard|
+|9|<a href="https://oj.leetcode.com/problems/palindrome-number/" target="_blank">Palindrome Number</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-9%E3%80%90palindrome-number%E3%80%91/">Swift</a>|Easy|
+|8|<a href="https://oj.leetcode.com/problems/string-to-integer-atoi/" target="_blank">String to Integer (atoi)</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-8%E3%80%90string-to-integer-atoi%E3%80%91/">Swift</a>|Easy|
+|7|<a href="https://oj.leetcode.com/problems/reverse-integer/" target="_blank">Reverse Integer</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-7%E3%80%90reverse-integer%E3%80%91/">Swift</a>|Easy|
+|6|<a href="https://oj.leetcode.com/problems/zigzag-conversion/" target="_blank">ZigZag Conversion</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-6%E3%80%90zigzag-conversion%E3%80%91/">Swift</a>|Easy|
+|5|<a href="https://oj.leetcode.com/problems/longest-palindromic-substring/" target="_blank">Longest Palindromic Substring</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-5-【longest-palindromic-substring】/">Swift</a>|Medium|
+|4|<a href="https://oj.leetcode.com/problems/median-of-two-sorted-arrays/" target="_blank">Median of Two Sorted Arrays</a>|<a href="http://www.yangyanzhan.com/swift-solutions/leetcode/analysis-for-leetcode-no-4【median-of-two-sorted-arrays】/">Swift</a>|Hard|
 |3|<a href="https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/" target="_blank">Longest Substring Without Repeating Characters</a>|Trivial|Medium|
 |2|<a href="https://oj.leetcode.com/problems/add-two-numbers/" target="_blank">Add Two Numbers</a>|Trivial|Medium|
 |1|<a href="https://oj.leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>|Trivial|Medium|
