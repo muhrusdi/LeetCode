@@ -13,8 +13,8 @@ LeetCode
 ###The analysis for every LeetCode problem can be found on my blog. Every analysis for each problem can be found in the table below.
 ========
 ###Bonus:
-###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/yangyanzhan/exercism">Exercism Solutions in Swift</a>
-###If you want to see solutions for <a href="https://codefights.com/">CodeFights</a>, please visit my another github project <a href="https://github.com/yangyanzhan/CodeFights">CodeFights Solutions in Swift</a>
+###If you want to see solutions for <a href="http://exercism.io/">Exercism</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/Exercism">Exercism Solutions in Swift</a>
+###If you want to see solutions for <a href="https://codefights.com/">CodeFights</a>, please visit my another github project <a href="https://github.com/Swift-Solutions/CodeFights">CodeFights Solutions in Swift</a>
 ========
 
 | # | Title | Analysis | Difficulty |
